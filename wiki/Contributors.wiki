@@ -27,6 +27,26 @@ After a short time [http://fpv-community.de/member.php?13465-pete1990 pete1990 (
 
 [https://www.youtube.com/watch?feature=player_embedded&v=CqwSNj1wZtI]
 
+Great!
+
+At that time I have been facinge exact the 32 channel issue since I bought a new TX module.
+
+I found the artice [http://fpv-community.de/showthread.php?48932-32-Kanal-Videoempf%E4nger about the 32 channel RX in the fpv-community.de web page].
+
+The existing code at that time was in the state of early prototype.
+
+My part has been refactoring and cleaning the code up first.
+
+From there code optimisation in the driver and tune handing reduced the
+full 32 channel time from 10 t0 1 second (!).
+
+I loved the [http://code.google.com/p/arduino-tvout/ TVOUT of Myles Metzel] an experimented with it.
+
+By using a screen of 128x96 pixel it was possible to improve the naviation an give nice informative screens.
+
+https://www.youtube.com/watch?feature=player_embedded&v=5EGKL1nDKI8
+
+Thanks to all, Marko Hoepken
 
 
 
