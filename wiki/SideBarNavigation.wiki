@@ -7,6 +7,6 @@
     * [Technology#5.8_GHz_Channels 5.8 GHz Channels]
   * [Features]
   * [Hardware]
-    * [Hardware#rx5805_Module rx5805 Module]
-    * [Hardware#SPI_Patch SPI Patch]
+    * [rx5805 rx5805 Module]
+    * [Hardware]
   * [Software]
