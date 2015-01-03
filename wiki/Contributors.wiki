@@ -32,11 +32,11 @@ By this he created great visual spectrum analyzer.
 
 <wiki:video url="https://www.youtube.com/watch?feature=player_embedded&v=sQRryOsAFMg"/>
 
-[https://www.youtube.com/watch?feature=player_embedded&v=sQRryOsAFMg]
 
 After a short time [http://fpv-community.de/member.php?13465-pete1990 pete1990 (Peter real name?)] took the code of [http://der-frickler.net/ Johannes Hermen (der-frickler)] and added a two button control and a simple scan search.
 
-[https://www.youtube.com/watch?feature=player_embedded&v=CqwSNj1wZtI]
+<wiki:video url="https://www.youtube.com/watch?feature=player_embedded&v=CqwSNj1wZtI"/>
+
 
 Great!
 
@@ -55,7 +55,9 @@ I loved the [http://code.google.com/p/arduino-tvout/ TVOUT of Myles Metzel] an e
 
 By using a screen of 128x96 pixel it was possible to improve the naviation an give nice informative screens.
 
-https://www.youtube.com/watch?feature=player_embedded&v=5EGKL1nDKI8
+
+<wiki:video url="https://www.youtube.com/watch?feature=player_embedded&v=5EGKL1nDKI8"/>
+
 
 Finally I put all this on this code.google page to have all together for the world wide comunity of builders.
 
