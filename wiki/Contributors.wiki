@@ -1,4 +1,4 @@
-#summay How all began
+#summary Contributors and how all began
 = Contributors =
 
 Open source is a wonderfull thing to connect creative minds to create new stuff for the community.
