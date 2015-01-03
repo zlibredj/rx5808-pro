@@ -1,6 +1,7 @@
 #sidebar SideBarNavigation
   * [Overview]
   * [Contributors]
+    * [Contributors#How_it_started_or_the_full_story How it started or the full story ==
   * [Technology]
   * [Features]
   * [Hardware]
