@@ -82,8 +82,7 @@ For the patch a via must be drilled (*CAREFULLY*) to diconnect the GND from SPI_
 
 Check the images for details:
 
-
-http://fpv-community.de/attachment.php?attachmentid=111534&d=1417508483&nonsense=something_that_ends_with1.jpg
+http://rx5808-pro.googlecode.com/svn/wiki/images/rx5808_old_bottom.jpg
 
 *THE RED ARROW SPOTS THE VIA TO BE DRILLED*
 
