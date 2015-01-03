@@ -1,0 +1,16 @@
+#summary Feature overview
+
+= Freatures =
+
+
+||   *Freature*       ||   *Description*                      ||    *Available*    ||
+|| User control       || 2 buttons to to all settings         ||    YES            || 
+|| Manail Mode        || Set channel manual to tune to        ||    YES            || 
+|| Search Mode        || Search next channel based on RSSI    ||    YES            ||
+|| Scanner            || Print spectrum of all 32 channels    ||    YES            ||
+|| Save mode          || Save startup mode (manu, seek, scan) ||    planned        ||
+|| Save channel       || Startup with last saved channel      ||    planned        ||
+|| DIP mode           || Set channel by extern DIP switch     ||    idea           ||
+|| Extend to 3 Button || Better controll by up / down / mode  ||    idea           ||
+|| Save RSSI range    || RSSI voltage may variy per part      ||    idea           ||
+|| Integrated version || PCB with Power, RX5808, CPU          ||    Iidea          ||
