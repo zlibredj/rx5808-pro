@@ -16,7 +16,7 @@ Exactly this happend on this project :-).
 || [http://fpv-community.de/member.php?384-jreise Joerg Reise]           || Nice pictures for the SPI patch of rx5808                                  || 
 || [http://fpv-community.de/member.php?14211-markohoepken Marko Hoepken] || Code optisation, TV Gui rework, distribution and maintainence of this page ||
 
-==  How it started or the full  story ==
+==  How it started or the full story ==
 
 Since there are more and more 32 channel 5.8GHz modules available a disscussion started in the [http://fpv-community.de/showthread.php?48932-32-Kanal-Videoempf%E4nger fpv-community.de web page].
 
