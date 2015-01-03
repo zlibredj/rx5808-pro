@@ -1,8 +1,14 @@
 #summary Overview of the project
 
-= Overview =
+=Overview=
 
-This gives a overview of the project.
+The BOSCAM rx5808 receiver module is very popular in the FPV RX builder scene. 
 
+By default it supports only 8 channels with dip switch.
 
+By using it with SPI interface and Arduino with TVOUT it becomes a comfortable delux RX with nice autoscan and even a simple spectrum anlyser.
+
+<wiki:video url="https://www.youtube.com/watch?feature=player_embedded&v=5EGKL1nDKI8"/>
+
+Simple to build, very low cost... cool looking.
 
