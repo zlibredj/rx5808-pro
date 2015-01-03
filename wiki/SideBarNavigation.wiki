@@ -7,6 +7,6 @@
     * [Technology#5.8_GHz_Channels 5.8 GHz Channels]
   * [Features]
   * [Hardware]
-    * [rx5805 rx5805 Module]
     * [Hardware]
+    * [rx5805 rx5805 Module]
   * [Software]
