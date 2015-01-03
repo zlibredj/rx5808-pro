@@ -83,12 +83,12 @@ For the patch a via must be drilled (*CAREFULLY*) to diconnect the GND from SPI_
 Check the images for details:
 
 
-http://fpv-community.de/attachment.php?attachmentid=111534&d=1417508483&nonsense=something_that_ends_with1.png
+http://fpv-community.de/attachment.php?attachmentid=111534&d=1417508483&nonsense=something_that_ends_with1.jpg
 
 *THE RED ARROW SPOTS THE VIA TO BE DRILLED*
 
 
-http://fpv-community.de/attachment.php?attachmentid=111537&d=1417508483&nonsense=something_that_ends_with2.png
+http://fpv-community.de/attachment.php?attachmentid=111537&d=1417508483&nonsense=something_that_ends_with2.jpg
 
 
 == RX5808 20120322 Patch ==
@@ -99,9 +99,8 @@ The new module has an pull down SMD resitor connected to the pin.
 
 The following pictures are showing the open module with the restor to be removed.
 
-http://fpv-community.de/attachment.php?attachmentid=111536&d=1417508483&nonsense=something_that_ends_with3.png
+http://fpv-community.de/attachment.php?attachmentid=111536&d=1417508483&nonsense=something_that_ends_with3.jpg
 
-http://fpv-community.de/attachment.php?attachmentid=111535&d=1417508483&nonsense=something_that_ends_with4.png
+http://fpv-community.de/attachment.php?attachmentid=111535&d=1417508483&nonsense=something_that_ends_with4.jpg
 
 *THE RED ARROW SPOTS TO THE RESTOR TO BE REMOVED*
-
