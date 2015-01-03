@@ -4,13 +4,7 @@
 
 This gives a overview of the project.
 
-== Contributors ==
 
-Open source is a wonderfull thing to connect creative minds to create new stuff for the community.
-
-They like to share there experience and enable other to take there idea to make even better or different things.
-
-Exactly this happend on this project :-).
 
 
 == 5.8 GHz Channels ==
