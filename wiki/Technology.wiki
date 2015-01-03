@@ -66,7 +66,7 @@ Currently there are two version of the module (see printer backside):
    * RX5808 (old version)
    * RX5808 20120322 (Version 22th March 2012)
 
-*RX5808 Patch*
+*RX5808 (old version) Patch*
 
 Here the SPI_EN pin tight directly to GND. 
 When the GND connection is loosen, an internal pullup resitor sets the required *HIGH*.
@@ -77,27 +77,13 @@ For the patch a via must be drilled (*CAREFULLY*) to diconnect the GND from SPI_
 
 Check the images for details:
 
-http://chart.apis.google.com/chart?chs=200x125&chd=t:48.14,33.79,19.77|83.18,18.73,12.04&cht=bvg&nonsense=something_that_ends_with.png
 
-http://fpv-community.de/attachment.php?attachmentid=111534&d=1417508483&nonsense=something_that_ends_with.png
+http://fpv-community.de/attachment.php?attachmentid=111534&d=1417508483&nonsense=something_that_ends_with1.png
 
-
-http://fpv-community.de/attachment.php?attachmentid=111537&d=1417508483&nonsense=something_that_ends_with.png
+*THE RED ARROW SPOTS THE VIA TO BE DRILLED*
 
 
+http://fpv-community.de/attachment.php?attachmentid=111537&d=1417508483&nonsense=something_that_ends_with2.png
 
 
-
-
-
-= Introduction =
-
-Add your content here.
-
-
-= Details =
-
-Add your content here.  Format your content with:
-  * Text in *bold* or _italic_
-  * Headings, paragraphs, and lists
-  * Automatic links to other wiki pages
+*RX5808 20120322 Patch*
