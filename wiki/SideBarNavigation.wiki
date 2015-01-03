@@ -1,8 +1,13 @@
 #sidebar SideBarNavigation
   * [Overview]
   * [Contributors]
-    * [Contributors#How_it_started_or_the_full_story How it started or the full story]
+    * [Contributors]
+    * [Contributors#How_it_started_or_the_full_story The full story]
   * [Technology]
+    * [Technology#5.8_GHz_Channels 5.8 GHz Channels]
+    * [Technology#rx5805_Module rx5805 Module]
+    * [Technology#SPI_Patch SPI Patch]
+
   * [Features]
   * [Hardware]
   * [Software]
