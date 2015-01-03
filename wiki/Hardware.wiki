@@ -1,0 +1,5 @@
+#summary Hardware setup of system.
+
+= Hardware =
+
+Aduino + SPI rx5808 + Power + DISPLAY
