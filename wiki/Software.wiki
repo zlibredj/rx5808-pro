@@ -7,7 +7,7 @@
 The default Arduino does require additional libraries.
 
 || *Library* || *Source* ||
-|| Aduino TVOUT   || [http://code.google.com/p/arduino-tvout/ Download]         ||
+|| Aduino TVOUT   || [http://code.google.com/p/arduino-tvout/downloads/detail?name=TVoutBeta1.zip&can=2&q= Download]         ||
 
 == Source Code ==
 
