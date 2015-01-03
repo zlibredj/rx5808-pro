@@ -1,3 +1,12 @@
 #summary Hardware setup of system.
 
 = Hardware =
+
+The system requires the following componts:
+
+   * rx5808 with SPI patch
+   * Ardunino Nano 3.0
+   * Analog TV monitor (as used for FPV)
+   * Some switches, 2 diodes, 2 resistors
+   * some Cable
+   * 5V Power supply
