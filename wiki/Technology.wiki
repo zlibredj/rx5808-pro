@@ -24,7 +24,7 @@ In practise 4-6 channles may run together.
 Beside that the channel number are sometime not coralating the freqency.
 Check the Band E (step from CH4 -> CH 5) and decending oder (Band A).
 
-= rx5805 module =
+= rx5805 Module =
 
 The BOSCAM rx5808 modules is popular in the builder scene since it is small and cheap.
 
