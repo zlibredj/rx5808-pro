@@ -1,0 +1,38 @@
+#comment How all began
+= Contributors =
+
+Open source is a wonderfull thing to connect creative minds to create new stuff for the community.
+
+They like to share there experience and enable other to take there idea to make even better or different things.
+
+Exactly this happend on this project :-).
+
+==  How it started ==
+
+Since there are more and more 32 channel 5.8GHz modules available a disscussion started in the [http://fpv-community.de/showthread.php?48932-32-Kanal-Videoempf%E4nger fpv-community.de web page].
+
+The most common receiver do support only 8 channels in on band (See reference).
+
+At the bottom line it has been found that a very common rx5808 module can be controlled by an SPI bus to get all 32 channels.
+
+It exists alreay a simple driver for arduino by [https://github.com/simonchambers/fs-5.8g-vrx Simon Chambers].
+
+[http://der-frickler.net/ Johannes Hermen (der-frickler)] took a arduino and came to the great idea to add a [http://code.google.com/p/arduino-tvout/ TVOUT of Myles Metzel].
+
+By this he created great visual spectrum analyzer.
+
+[https://www.youtube.com/watch?feature=player_embedded&v=sQRryOsAFMg]
+
+After a short tie
+
+= Introduction =
+
+Add your content here.
+
+
+= Details =
+
+Add your content here.  Format your content with:
+  * Text in *bold* or _italic_
+  * Headings, paragraphs, and lists
+  * Automatic links to other wiki pages
