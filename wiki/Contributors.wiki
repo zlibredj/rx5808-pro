@@ -57,16 +57,3 @@ https://www.youtube.com/watch?feature=player_embedded&v=5EGKL1nDKI8
 Finally I put all this on this code.google page to have all together for the world wide comunity of builders.
 
 Thanks to all, Marko Hoepken
-
-
-= Introduction =
-
-Add your content here.
-
-
-= Details =
-
-Add your content here.  Format your content with:
-  * Text in *bold* or _italic_
-  * Headings, paragraphs, and lists
-  * Automatic links to other wiki pages
