@@ -1,8 +1,7 @@
 #sidebar SideBarNavigation
-
-  * [Overview Overview of Projects]
-    * [Idea]
-    * [Contributors]
+  * [Overview]
+  * [Idear]
+  * [Contributors]
   * [Features]
   * [Hardware]
   * [Software]
