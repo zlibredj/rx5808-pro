@@ -1,6 +1,6 @@
 #summary Overview of used technology
 
-== 5.8 GHz Channels ==
+= 5.8 GHz Channels =
 
 In the RC modeler scene a 5.8GHz uncompressed video link is standard.
 
@@ -16,7 +16,7 @@ Here is a list of valid channels:
 || Band E || 5705 || 5685 || 5665 || 5645 || 5885 || 5905 || 5925 || 5945 ||
 || Band F || 5740 || 5760 || 5780 || 5800 || 5820 || 5840 || 5860 || 5880 ||
 
-=== Special Notes ===
+== Special Notes ==
 
 All the bands are overlapping. Than means not all 32 channels can be used at once.
 In practise 4-6 channles may run together.
@@ -24,7 +24,7 @@ In practise 4-6 channles may run together.
 Beside that the channel number are sometime not coralating the freqency.
 Check the Band E (step from CH4 -> CH 5) and decending oder (Band A).
 
-== rx5805 module ==
+= rx5805 module =
 
 The BOSCAM rx5808 modules is popular in the builder scene since it is small and cheap.
 
@@ -38,7 +38,7 @@ The basis of this project is the SPI interface for the modules.
 
 [http://www.datasheet4u.com/datasheet-pdf/RichWave/RTC6715/pdf.php?id=785220 Details of the used RTC6715 can be found here.]
 
-=== SPI patch ===
+== SPI patch ==
 
 By default the freqency selection happen with 3 controll pins (CH1, CH2, CH3).
 
@@ -66,7 +66,7 @@ Currently there are two version of the module (see printer backside):
    * RX5808 (old version)
    * RX5808 20120322 (Version 22th March 2012)
 
-*RX5808 (old version) Patch*
+== RX5808 (old version) Patch ==
 
 Here the SPI_EN pin tight directly to GND. 
 When the GND connection is loosen, an internal pullup resitor sets the required *HIGH*.
@@ -74,6 +74,11 @@ When the GND connection is loosen, an internal pullup resitor sets the required 
 The follwing picture shows the module (with removed shield cover) from top an back.
 
 For the patch a via must be drilled (*CAREFULLY*) to diconnect the GND from SPI_EN pin.
+
+*NICE: Shield cover must not be removed*
+
+*BAD: This modules are no longer on sale*
+
 
 Check the images for details:
 
@@ -86,4 +91,17 @@ http://fpv-community.de/attachment.php?attachmentid=111534&d=1417508483&nonsense
 http://fpv-community.de/attachment.php?attachmentid=111537&d=1417508483&nonsense=something_that_ends_with2.png
 
 
-*RX5808 20120322 Patch*
+== RX5808 20120322 Patch ==
+
+The new module has an pull down SMD resitor connected to the pin.
+
+*FOR THIS OPERATION THE SHIELD COVER MUST BE REMOVED.*
+
+The following pictures are showing the open module with the restor to be removed.
+
+http://fpv-community.de/attachment.php?attachmentid=111536&d=1417508483&nonsense=something_that_ends_with3.png
+
+http://fpv-community.de/attachment.php?attachmentid=111535&d=1417508483&nonsense=something_that_ends_with4.png
+
+*THE RED ARROW SPOTS TO THE RESTOR TO BE REMOVED*
+
