@@ -86,9 +86,7 @@ http://rx5808-pro.googlecode.com/svn/wiki/images/rx5808_old_bottom.jpg
 
 *THE RED ARROW SPOTS THE VIA TO BE DRILLED*
 
-
-http://fpv-community.de/attachment.php?attachmentid=111537&d=1417508483&nonsense=something_that_ends_with2.jpg
-
+http://rx5808-pro.googlecode.com/svn/wiki/images/rx5808_old_top.jpg
 
 == RX5808 20120322 Patch ==
 
@@ -98,8 +96,8 @@ The new module has an pull down SMD resitor connected to the pin.
 
 The following pictures are showing the open module with the restor to be removed.
 
-http://fpv-community.de/attachment.php?attachmentid=111536&d=1417508483&nonsense=something_that_ends_with3.jpg
+http://rx5808-pro.googlecode.com/svn/wiki/images/rx5808_new_bottom.jpg
 
-http://fpv-community.de/attachment.php?attachmentid=111535&d=1417508483&nonsense=something_that_ends_with4.jpg
+http://rx5808-pro.googlecode.com/svn/wiki/images/rx5808_new_top.jpg
 
 *THE RED ARROW SPOTS TO THE RESTOR TO BE REMOVED*
