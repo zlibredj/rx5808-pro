@@ -1,7 +1,7 @@
 #sidebar SideBarNavigation
   * [Overview]
-  * [Idear]
   * [Contributors]
+  * [Technology]
   * [Features]
   * [Hardware]
   * [Software]
