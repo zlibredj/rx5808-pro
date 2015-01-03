@@ -26,6 +26,70 @@ Check the Band E (step from CH4 -> CH 5) and decending oder (Band A).
 
 == rx5805 module ==
 
+The BOSCAM rx5808 modules is popular in the builder scene since it is small and cheap.
+
+[http://www.banggood.com/FPV-5_8G-Wireless-Audio-Video-Receiving-Module-RX5808-p-84775.html]
+
+The quality is not great, but OK.
+
+It popularity leads to some developments like this project.
+
+The basis of this project is the SPI interface for the modules.
+
+[http://www.datasheet4u.com/datasheet-pdf/RichWave/RTC6715/pdf.php?id=785220 Details of the used RTC6715 can be found here.]
+
+=== SPI patch ===
+
+By default the freqency selection happen with 3 controll pins (CH1, CH2, CH3).
+
+By enabling the SPI interface this 3 pins will become the SPI interface pins.
+
+SPI has 3 pins:
+
+   * CLK
+   * SELECT
+   * DATA
+
+After the patch the mapping is the following:
+
+|| *Default Pin* || *SPI Pin* ||
+|| CH 1          ||  DATA     ||
+|| CH 2          ||  SELECT   ||
+|| CH 3          ||  CLOCK    ||
+
+The SPI mode is controll by the SPI_EN pin on the chip.
+
+This pin must be set to *HIGH* to get SPI on.
+
+Currently there are two version of the module (see printer backside):
+
+   * RX5808 (old version)
+   * RX5808 20120322 (Version 22th March 2012)
+
+*RX5808 Patch*
+
+Here the SPI_EN pin tight directly to GND. 
+When the GND connection is loosen, an internal pullup resitor sets the required *HIGH*.
+
+The follwing picture shows the module (with removed shield cover) from top an back.
+
+For the patch a via must be drilled (*CAREFULLY*) to diconnect the GND from SPI_EN pin.
+
+Check the images for details:
+
+http://chart.apis.google.com/chart?chs=200x125&chd=t:48.14,33.79,19.77|83.18,18.73,12.04&cht=bvg&nonsense=something_that_ends_with.png
+
+http://fpv-community.de/attachment.php?attachmentid=111534&d=1417508483&nonsense=something_that_ends_with.png
+
+
+http://fpv-community.de/attachment.php?attachmentid=111537&d=1417508483&nonsense=something_that_ends_with.png
+
+
+
+
+
+
+
 = Introduction =
 
 Add your content here.
