@@ -23,7 +23,12 @@ By this he created great visual spectrum analyzer.
 
 [https://www.youtube.com/watch?feature=player_embedded&v=sQRryOsAFMg]
 
-After a short tie
+After a short time [http://fpv-community.de/member.php?13465-pete1990 pete1990 (Peter real name?)] took the code of [http://der-frickler.net/ Johannes Hermen (der-frickler)] and added a two button control and a simple scan search.
+
+[https://www.youtube.com/watch?feature=player_embedded&v=CqwSNj1wZtI]
+
+
+
 
 = Introduction =
 
