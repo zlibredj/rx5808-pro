@@ -13,5 +13,5 @@
 || DIP mode           || Set channel by extern DIP switch     ||    YES            ||
 || Extend to 3 Button || Better controll by up / down / mode  ||    YES            ||
 || Beeper             || Acustic feedback on important actions||    YES            ||
-|| Save RSSI range    || RSSI voltage may variy per part      ||    idea           ||
+|| Save RSSI range    || RSSI voltage may variy per part      ||    YES            ||
 || Integrated version || PCB with Power, RX5808, CPU          ||    idea           ||
