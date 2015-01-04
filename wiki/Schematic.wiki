@@ -3,3 +3,5 @@
 = Schematic =
 
 This diagram shows how the components are wired together.
+
+http://rx5808-pro.googlecode.com/svn/wiki/images/rx5808-pro_schematic.png
