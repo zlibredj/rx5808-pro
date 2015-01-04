@@ -8,7 +8,6 @@ By default it supports only 8 channels with dip switch.
 
 By using it with SPI interface and Arduino with TVOUT it becomes a comfortable delux RX with nice autoscan and even a simple spectrum anlyser.
 
-<wiki:video url="https://www.youtube.com/watch?feature=player_embedded&v=5EGKL1nDKI8"/>
+<wiki:video url="https://www.youtube.com/watch?feature=player_embedded&v=fjriVj_pkpU"/>
 
 Simple to build, very low cost... cool looking.
-
