@@ -75,5 +75,3 @@ http://rx5808-pro.googlecode.com/svn/wiki/images/rx5808_new_bottom.jpg
 http://rx5808-pro.googlecode.com/svn/wiki/images/rx5808_new_top.jpg
 
 *THE RED ARROW SPOTS TO THE RESTOR TO BE REMOVED*
-
-Aduino + SPI rx5808 + Power + DISPLAY
