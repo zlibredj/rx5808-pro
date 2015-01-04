@@ -9,4 +9,5 @@
   * [Hardware]
     * [Hardware]
     * [rx5805 rx5805 Module]
+    * [Schematic]
   * [Software]
