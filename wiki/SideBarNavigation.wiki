@@ -8,6 +8,6 @@
   * [Features]
   * [Hardware]
     * [Hardware]
-    * [rx5805 rx5805 Module]
     * [Schematic]
+    * [rx5805 rx5805 SPI patch]
   * [Software]
