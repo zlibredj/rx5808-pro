@@ -13,7 +13,7 @@ Exactly this happend on this project :-).
 || Myles Metzel                                                          || [http://code.google.com/p/arduino-tvout/ TVOUT]                            ||
 || [http://der-frickler.net/ Johannes Hermen (der-frickler)]             || 5.8GHz Scanner with all above                                              ||
 || [http://fpv-community.de/member.php?13465-pete1990 pete1990 (Peter)]  || Simple key control + search                                                ||
-|| [http://fpv-community.de/member.php?384-jreise Joerg Reise]           || Nice pictures for the SPI patch of rx5808                                  || 
+|| [http://fpv-community.de/member.php?384-jreise Joerg Reisener]           || Nice pictures for the SPI patch of rx5808                                  || 
 || [http://fpv-community.de/member.php?14211-markohoepken Marko Hoepken] || Code optisation, TV Gui rework, distribution and maintainence of this page ||
 
 ==  How it started or the full story ==
