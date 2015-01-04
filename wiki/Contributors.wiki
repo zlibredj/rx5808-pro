@@ -56,8 +56,8 @@ I loved the [http://code.google.com/p/arduino-tvout/ TVOUT of Myles Metzel] an e
 By using a screen of 128x96 pixel it was possible to improve the naviation an give nice informative screens.
 
 
-<wiki:video url="https://www.youtube.com/watch?feature=player_embedded&v=5EGKL1nDKI8"/>
 
+<wiki:video url="https://www.youtube.com/watch?feature=player_embedded&v=fjriVj_pkpU"/>
 
 Finally I put all this on this code.google page to have all together for the world wide comunity of builders.
 
