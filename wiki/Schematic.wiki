@@ -1,0 +1,5 @@
+#summary Schematic of rx5808-pro
+
+= Schematic =
+
+This diagram shows how the components are wired together.
