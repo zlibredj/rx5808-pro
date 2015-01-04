@@ -1,6 +1,6 @@
 #summary Feature overview
 
-= Freatures =
+= Features =
 
 
 ||   *Freature*       ||   *Description*                      ||    *Available*    ||
