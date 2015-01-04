@@ -13,4 +13,13 @@ The default Arduino does require additional libraries.
 
 The software is one aduino file.
 
-You may check it out, or simply save this from your browser: http://code.google.com/p/rx5808-pro/source/browse/trunk/rx5808_pro/rx5808_pro.ino
+You may check it out, or simply save this from your browser (save as)
+
+[http://code.google.com/p/rx5808-pro/source/browse/trunk/rx5808_pro/rx5808_pro.ino rx5808_pro.ino]
+
+For Adruion GUI, you need to place this in a sketch folder like this:
+
+{
+   rx5808_pro (directory)
+       +---- rx5808_pro.ino
+}
