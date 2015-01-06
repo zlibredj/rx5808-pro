@@ -12,7 +12,7 @@
 The revisions will get the svn version das postfix in the zip file.
 
 || *Date* || *Library* || *Source* || *Note* ||
-|| 6th Jan 2015 || rx5808-pro V97 || [http://big-bonsai.de/files/rx5808_pro_v1-0.zip rx5808_pro_v97.zip] || Bugfix: Keydebounce, Extened RSSI values, Default PAL system ||
+|| 6th Jan 2015 || rx5808-pro V97 || [http://big-bonsai.de/files/rx5808_pro_v97.zip rx5808_pro_v97.zip] || Bugfix: Keydebounce, Extened RSSI values, Default PAL system ||
 || 4th Jan 2015 || rx5808-pro V1.0 || [http://big-bonsai.de/files/rx5808_pro_v76.zip rx5808_pro_v76.zip] || Initial version ||
 
 
