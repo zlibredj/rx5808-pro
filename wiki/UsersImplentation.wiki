@@ -1,10 +1,10 @@
 #summary How users did there delux rx
 
-= Users Implentation =
+=Users Implentation=
 
 Here you find examples, how users build there be loved rx5808-pro deluxe system.
 
-== SAMPLE 1 MOE ==
+==SAMPLE 1 MOE==
 
 
 http://rx5808-pro.googlecode.com/svn/wiki/images/MOE_01.JPG
@@ -15,4 +15,4 @@ http://rx5808-pro.googlecode.com/svn/wiki/images/MOE_03.JPG
 
 http://rx5808-pro.googlecode.com/svn/wiki/images/MOE_04.JPG
 
-== SAMPLE 2 ==
+==SAMPLE 2==
