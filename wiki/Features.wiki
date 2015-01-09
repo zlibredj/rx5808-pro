@@ -4,7 +4,7 @@
 
 
 ||   *Freature*       ||   *Description*                      ||    *Available*    ||
-|| User control       || 2 buttons to to all settings         ||    YES            || 
+|| User control       || 2 buttons to do all settings         ||    YES            || 
 || Manual Mode        || Set channel manual to tune to        ||    YES            || 
 || Search Mode        || Search next channel based on RSSI    ||    YES            ||
 || Scanner            || Print spectrum of all 32 channels    ||    YES            ||
