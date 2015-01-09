@@ -10,6 +10,6 @@ The system requires the following componts:
    * Ardunino Nano 3.0
    * Analog TV monitor (as used for FPV)
    * TV out made out of 2 Resitors
-   * Switches depemding of your configuration
+   * Switches depending of your configuration
    * Some cables
    * 5V Power supply
