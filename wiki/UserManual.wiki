@@ -20,17 +20,31 @@ The problem is, that the phyical voltage from the rx5808 is depending of your un
 
 The calibration can be done at ANY time.
 
+*YOU MUST HAVE AT LEAST ONE ACTIV TX TO GET GOOD MAX VALUES*
+
 For the calibration enter the "SAVE SETUP" menu.
-
-It will save the current settings.
-
-After 2 Seconds a "Hidden" Enter function is available.
-
-*Note: It is hidden to prevent a new calibration in the field*
-
 
 http://rx5808-pro.googlecode.com/svn/wiki/images/save_mode.png
 
+It will save the current settings.
+
 http://rx5808-pro.googlecode.com/svn/wiki/images/save_settings.png
+
+After 2 Seconds a "Hidden" Enter function is available.
+
+*YOU MUST HOLD THE MODE BUTTON UNTIL YOU ENTER THE RSSI_SETUP*
+
+*Note: It is hidden to prevent a new calibration in the field*
+
 http://rx5808-pro.googlecode.com/svn/wiki/images/enter_rssi.png
+
+The calibration will show up
+
 http://rx5808-pro.googlecode.com/svn/wiki/images/rssi_setup.png
+
+This will scan 10x the band an will to the setup:
+
+   * *WEAKEST* signal (noise) a MIN value
+   * *STRONGES signal (your test tx) as MAX value
+
+
