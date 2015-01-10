@@ -8,11 +8,11 @@ The software you need is for all the Schematics the same and could be found unde
 Possible configurations:
 
 || *Configuration* || Features ||
-|| [#Full_Featured] || All functions ||
-|| 4 Button        || Best control including SAVE button ||
-|| 3 Button        || Best control (Save in menue as option) ||
-|| 2 Button        || Minumu control ||
-|| DIP only        || No video, simple DIP configuration ||
+|| [#Full_Featured Full Featured] || All functions ||
+|| [#4_Button 4 Button]        || Best control including SAVE button ||
+|| [#3_Button 3 Button]        || Best control (Save in menue as option) ||
+|| [#2_Button 2 Button]        || Minumu control ||
+|| [#DIP_only DIP only]        || No video, simple DIP configuration ||
 
 
 
