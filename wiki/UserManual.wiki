@@ -26,7 +26,7 @@ http://rx5808-pro.googlecode.com/svn/wiki/images/rssi_good.png
 
 The calibration can be done at ANY time.
 
-*YOU MUST HAVE AT LEAST ONE ACTIV TX TO GET GOOD MAX VALUES*
+*YOU MUST HAVE AT LEAST ONE ACTIVE TX TO GET GOOD MAX VALUES*
 
 For the calibration enter the "SAVE SETUP" menu.
 
