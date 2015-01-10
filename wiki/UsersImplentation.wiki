@@ -21,12 +21,22 @@ I start my project base on the following product:
 http://www.himodel.com/FPV_Telemetry/FPV_5.8G_32CH_Auto-scan_A_V_Receiver_RX_RC32S_32CH_Edition.html
 
 This receiver didn't work for me, so I use it at base for my modification.
-
 http://rx5808-pro.googlecode.com/svn/wiki/images/32CH-Receiver_00.jpg
+
+First I remove all items like you can see here
 http://rx5808-pro.googlecode.com/svn/wiki/images/32CH-Receiver_01.jpg
+
+Now I search for all the pins we need for our modification
 http://rx5808-pro.googlecode.com/svn/wiki/images/32CH-Receiver_01a.jpg
-http://rx5808-pro.googlecode.com/svn/wiki/images/32CH-Receiver_02.jpg
+
+Check, if the Arduino board fit, I use Wattuino pro mini adv 5V/16MHz http://www.watterott.com/de/Wattuino-pro-mini-5V-16MHz
 http://rx5808-pro.googlecode.com/svn/wiki/images/32CH-Receiver_03.jpg
+
+I wire all cables
 http://rx5808-pro.googlecode.com/svn/wiki/images/32CH-Receiver_04.jpg
+
+Than I place the Arduino, I use an gyro tape
 http://rx5808-pro.googlecode.com/svn/wiki/images/32CH-Receiver_05.jpg
+
+then I complete the wire
 http://rx5808-pro.googlecode.com/svn/wiki/images/32CH-Receiver_06.jpg
