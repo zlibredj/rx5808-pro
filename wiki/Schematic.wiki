@@ -2,6 +2,29 @@
 
 = Schematic =
 
-This diagram shows how the components are wired together.
+There are multiple ways to Build your Receiver with that scope of functions that fit´s perfect for your needs.
+The software you need is for all the Schematics the same and could be found under "Software"
+
+If you just want a cheap 32Ch Receiver with frequency setup via DIP Switches, follow this schematic (in this version you cant use the Autoscan or the Spektrumanalyzer!):
+
+If you want to build it the easiest way, follow this schematic (Yes with this Version you can Use the FULL SCOPE OF FUNCTIONS !):
+
+If you want to modify your cheap Boscam 32Ch Autoscan (which is no real autoscan... search the web!) Receiver and just have 3 Buttons and not so much space,
+follow this schematic:
+
+If You want the premium version with 4 Buttons but you doesn´t need the DIP Switches, take that schematic: 
+
+But if you want to use all Functions, you have to wire it up like in this schematic:
 
 http://rx5808-pro.googlecode.com/svn/wiki/images/rx5808-pro_schematic.png
+
+These are just examples how you can set up your own receiver Hardware! If you dont know which version you should take, here a short descripion which thing is
+necessary for what:
+
+|| The Dip Switches || Manually Change the Channel and Band without using the OSD Menue ||	
+|| The Save Button  || For fast Saving without the Save Function of the menu (Needed to enter the RSSI Setup, but you just have to do this one time, so you can use a wire to ground that pad one time) ||
+|| The Menu Button  || Mandatory if you want to use the full scope of Functions, Needet to enter Menu ^^ and to select the menue functions ||
+|| Up Button || You minimum need one of the 2 direction buttons (Up or Down) for Switching the Frequenzies in the manual Mode forward ||
+|| Down Button || Same as Up Button just in the other way (switch the frequencys backwards) ||
+|| The Buzzer || Necessary for Audio Feedback of button operation, Finishing the Autoscan etc. ||
+|| The RSSI Signal || Mandatory for the Autoscan and Spektrumanalyzer function (Gives the Strength of the received Signal to the Ardino) ||
