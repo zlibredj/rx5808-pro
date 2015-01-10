@@ -11,6 +11,7 @@
     * [Schematic]
     * [rx5805 rx5805 SPI patch]
   * [Software]
+  * [UserManual User Manual]
   * [UsersImplentation User Implentations]
     * [UsersImplentation#SAMPLE_1_MOE Sample 1]  
     * [UsersImplentation#SAMPLE_2 Sample 2] 
