@@ -1,6 +1,6 @@
 #summary Schematic of rx5808-pro
 
-= Schematic =
+=Schematic=
 
 There are multiple ways to Build your Receiver with that scope of functions that fit´s perfect for your needs.
 The software you need is for all the Schematics the same and could be found under "Software"
@@ -8,7 +8,7 @@ The software you need is for all the Schematics the same and could be found unde
 Possible configurations:
 
 || *Configuration* || Features ||
-|| [Full Featured]      || All functions ||
+|| [Schematic#Full_Featured]      || All functions ||
 || 4 Button        || Best control including SAVE button ||
 || 3 Button        || Best control (Save in menue as option) ||
 || 2 Button        || Minumu control ||
