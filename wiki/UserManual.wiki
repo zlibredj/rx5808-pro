@@ -47,4 +47,16 @@ This will scan 10x the band an will to the setup:
    * *WEAKEST* signal (noise) a MIN value
    * *STRONGES signal (your test tx) as MAX value
 
+== RSSI calibration tips ==
+
+When you run the calibration with a weak (low power, far away, bad antenna) the Max value will be lower.
+
+By this the spectrum analyser shows also the weak singnals better.
+
+The auto search will lock at any weak channel.
+
+If you want only the strong signals, make sure you TX is close (in the ramge of meters, not TO CLOSE).
+
+This will "hide" noice from your enviroment.
+
 
