@@ -1,5 +1,7 @@
 #summary Usage of System
 
+<wiki:toc max_depth="2" />
+
 = User Manual =
 
 == Why RSSI calibration ==
