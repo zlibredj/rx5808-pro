@@ -27,6 +27,7 @@ First I remove all items like you can see here
 http://rx5808-pro.googlecode.com/svn/wiki/images/32CH-Receiver_01.jpg
 
 Now I search for all the pins we need for our modification
+
 http://rx5808-pro.googlecode.com/svn/wiki/images/32CH-Receiver_01a.jpg
 
 Check, if the Arduino board fit, I use Wattuino pro mini adv 5V/16MHz http://www.watterott.com/de/Wattuino-pro-mini-5V-16MHz
@@ -40,3 +41,5 @@ http://rx5808-pro.googlecode.com/svn/wiki/images/32CH-Receiver_05.jpg
 
 then I complete the wire
 http://rx5808-pro.googlecode.com/svn/wiki/images/32CH-Receiver_06.jpg
+
+By the way, I remove the bascom receiver my one, I'm sure I get SPI running
