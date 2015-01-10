@@ -7,7 +7,7 @@ The software you need is for all the Schematics the same and could be found unde
 
 If you just want a cheap 32Ch Receiver with frequency setup via DIP Switches, follow this schematic (in this version you cant use the Autoscan or the Spektrumanalyzer!):
 
-http://rx5808-pro.googlecode.com/svn/wiki/images/grx5808-minimum_schematic.png
+http://rx5808-pro.googlecode.com/svn/wiki/images/rx5808-minimum_schematic.png
 
 If you want to build it the easiest way, follow this schematic (Yes with this Version you can Use the FULL SCOPE OF FUNCTIONS Except the Channel switching with the DIP´s):
 
