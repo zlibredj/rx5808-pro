@@ -16,9 +16,7 @@ Possible configurations:
 
 
 
-These are just examples how you can set up your own receiver Hardware! If you dont know which version you should take, here a short descripion which thing is
-
-necessary for what:
+These are just examples how you can set up your own receiver Hardware! If you dont know which version you should take, here a short descripion which thing is necessary for what:
 
 || The Dip Switches || Manually Change the Channel and Band without using the OSD Menue ||	
 || The Save Button  || For fast Saving without the Save Function ||
@@ -31,7 +29,7 @@ necessary for what:
 
 ==Full Featured==
 
-But if you want to use all Functions, you have to wire it up like in this schematic:
+If you want to use all Functions, you have to wire it up like in this schematic:
 
 http://rx5808-pro.googlecode.com/svn/wiki/images/rx5808-pro_schematic.png
 
