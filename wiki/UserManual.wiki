@@ -48,10 +48,13 @@ The calibration will show up
 
 http://rx5808-pro.googlecode.com/svn/wiki/images/rssi_setup.png
 
-This will scan 10x the band an will to the setup:
+This will scan 10x the band an will do the setup:
 
    * *WEAKEST* signal (noise) a MIN value
    * *STRONGES signal (your test tx) as MAX value
+
+As orientation you see the min and max values in the top header.
+Usefull to debug rx / rssi problems.
 
 == RSSI calibration tips ==
 
