@@ -25,23 +25,32 @@ The performance of the receivder did not match my expectations, so I deceidet to
 
 http://rx5808-pro.googlecode.com/svn/wiki/images/32CH-Receiver_00.jpg
 
-First I remove all items like you can see here
+First I remove all unused part to get full access to the rx module and the space for the Adruino.
+Check the next image how clean it became:
+
 http://rx5808-pro.googlecode.com/svn/wiki/images/32CH-Receiver_01.jpg
 
-Now I search for all the pins we need for our modification
+In the next step I had to look for all the required pads for my modificatons.
+
 
 http://rx5808-pro.googlecode.com/svn/wiki/images/32CH-Receiver_01a.jpg
 
-Check, if the Arduino board fit, I use Wattuino pro mini adv 5V/16MHz http://www.watterott.com/de/Wattuino-pro-mini-5V-16MHz
+[http://www.watterott.com/de/Wattuino-pro-mini-5V-16MH The Wattuino pro mini adv 5V/16MHz] was my choice to fit perfect in the case.
+
 http://rx5808-pro.googlecode.com/svn/wiki/images/32CH-Receiver_03.jpg
 
-I wire all cables
+Here you see all the wired cables:
+
 http://rx5808-pro.googlecode.com/svn/wiki/images/32CH-Receiver_04.jpg
 
 Than I place the Arduino, I use an gyro tape
+
+The Adiuno got so "gyro tape" to stay in its place.
+
 http://rx5808-pro.googlecode.com/svn/wiki/images/32CH-Receiver_05.jpg
 
-then I complete the wire
+After that the wiring got finished.
+
 http://rx5808-pro.googlecode.com/svn/wiki/images/32CH-Receiver_06.jpg
 
-By the way, I remove the bascom receiver my one, I'm sure I get SPI running
+*NOTE*: The modification of the internal receiver module did not work, so I replaced it by a new rx5808 with.
