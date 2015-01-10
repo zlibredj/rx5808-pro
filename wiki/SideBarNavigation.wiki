@@ -14,4 +14,4 @@
   * [UserManual User Manual]
   * [UsersImplentation User Implentations]
     * [UsersImplentation#3.5_Inch_Monitor_Mod 3.5 Inch Monitor Mod]   
-    * [UsersImplentation#SAMPLE_2 Sample 2] 
+    * [UsersImplentation#32_Channel_Receiver_Mod 32 Channel Receiver Mod] 
