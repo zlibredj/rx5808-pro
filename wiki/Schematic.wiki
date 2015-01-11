@@ -18,13 +18,13 @@ Possible configurations:
 
 These are just examples how you can set up your own receiver Hardware! If you dont know which version you should take, here a short descripion which thing is necessary for what:
 
-|| The Dip Switches || Manually Change the Channel and Band without using the OSD Menue ||	
-|| The Save Button  || For fast Saving without the Save Function ||
+|| The Dip Switches || Manually Change the Channel and Band without using the OSD Menue or any other key ||	
+|| The Save Button  || For "Push button" Saving without the Save Function (You can save "blind" without going to OSD and Save function)||
 || The Menu Button  || Mandatory if you want to use the full scope of Functions, Needet to enter Menu ^^ and to select the menue functions ||
-|| Up Button || You minimum need one of the 2 direction buttons (Up or Down) for Switching the Frequenzies in the manual Mode forward ||
-|| Down Button || Same as Up Button just in the other way (switch the frequencys backwards) ||
-|| The Buzzer || Necessary for Audio Feedback of button operation, Finishing the Autoscan etc. ||
-|| The RSSI Signal || Mandatory for the Autoscan and Spektrumanalyzer function (Gives the Strength of the received Signal to the Ardino) ||
+|| Up Button || Mandatory for restart seek, manual up, restart scan ||
+|| Down Button || Optional down button, uses ONLY for manual control ||
+|| The Buzzer || Optional for Audio Feedback of button operation, Finishing the Autoscan etc. ||
+|| The RSSI Signal || Mandatory for the Autoscan and Spektrumanalyzer function (Gives the Strength of the received Signal to the Arduino) ||
 
 
 ==Full Featured==
